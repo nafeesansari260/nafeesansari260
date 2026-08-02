@@ -2,7 +2,6 @@
 <!-- ║           NAFEES ANSARI — GitHub Profile README       ║ -->
 <!-- ╚══════════════════════════════════════════════════════╝ -->
 
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,100:0d1117&height=3&section=header" width="100%"/>
 
 
@@ -29,7 +28,7 @@
 <h2>Hi, I'm Nafees Ansari 👋</h2>
 
 <p>
-AI & ML Student  •  Full Stack Developer  •  Building Real World Solutions
+AI & ML Student • Full Stack Developer • Building Real World Solutions
 </p>
 
 </td>
@@ -44,9 +43,7 @@ AI & ML Student  •  Full Stack Developer  •  Building Real World Solutions
 
 <div align="center">
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=560&lines=B.Tech+CSE+(AI%26ML)+Student;Python+%C2%B7+FastAPI+%C2%B7+MongoDB+%C2%B7+OpenCV;Building+AI+Powered+Real+World+Applications)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI%26ML)+Student;Python+%7C+FastAPI+%7C+MongoDB;AI+%26+Machine+Learning+Developer;Building+Real+World+Applications)](https://git.io/typing-svg)
 
 </div>
 
@@ -64,7 +61,7 @@ location   : India 🇮🇳
 education  : B.Tech Computer Science Engineering (AI & ML)
 
 currently:
-  - Building AI based applications
+  - Building AI powered applications
   - Developing full stack web systems
   - Exploring Machine Learning & Computer Vision
 
@@ -76,4 +73,4 @@ interests:
   - Real Time Applications
 
 goal:
-  - Building technology that solves real-world problems
+  - Build technology that solves real-world problems
